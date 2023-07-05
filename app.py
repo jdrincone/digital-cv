@@ -24,7 +24,7 @@ EMAIL = "jdrincone@gmail.com"
 CEL = "(+57) 300 364-8095"
 SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/jdrincone/",
-    "GitHub": "https://jdrincone.github.com",
+    "GitHub": "https://github.com/jdrincone",
     "Pag web": "https://jdrincone.github.io/Portafolio/",
 }
 PROJECTS = {
