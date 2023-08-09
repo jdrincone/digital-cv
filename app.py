@@ -114,7 +114,7 @@ st.subheader("Work History")
 st.write("---")
 
 st.write("🚧", "**Data Engineer | GroupR5**")
-st.write("03/2021 - Present")
+st.write("05/2023 - Present")
 st.write(
     """
 - ► Propose architecture schemes.
@@ -128,7 +128,7 @@ st.write(
 
 # --- JOB 1
 st.write("🚧", "**Data Analyst |  Quipux**")
-st.write("03/2021 - Present")
+st.write("03/2021 - 05/2023")
 st.write(
     """
 - ► Data cleaning process manager.
