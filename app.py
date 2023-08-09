@@ -113,6 +113,19 @@ st.write('\n')
 st.subheader("Work History")
 st.write("---")
 
+st.write("🚧", "**Data Engineer | GroupR5**")
+st.write("03/2021 - Present")
+st.write(
+    """
+- ► Propose architecture schemes.
+- ► Propose good software development practices.
+- ► Design and development of Back-End components written in Python.
+- ► Integration of external services and APIs.
+- ► Natural use of best programming practices and standards of coding.
+
+"""
+)
+
 # --- JOB 1
 st.write("🚧", "**Data Analyst |  Quipux**")
 st.write("03/2021 - Present")
